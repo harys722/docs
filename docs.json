@@ -3,9 +3,9 @@
   "theme": "maple",
   "name": "Open APIs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#FFD700",
+    "light": "#F8EDBF",
+    "dark": "#F9B234"
   },
   "favicon": "/favicon.svg",
   "navigation": {
