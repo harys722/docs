@@ -4,8 +4,8 @@
   "name": "Open APIs",
   "colors": {
     "primary": "#FFD700",
-    "light": "#F8EDBF",
-    "dark": "#F9B234"
+    "light": "#F9B234",
+    "dark": "#F8EDBF"
   },
   "favicon": "/favicon.svg",
   "navigation": {
